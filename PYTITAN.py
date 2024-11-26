@@ -1,4 +1,4 @@
-# Made by - Manan Garg (AI model , GUI , commenting and tester) S24CSEU0104   TEAMLEAD
+# Made by - Manan Garg 
 
 #this program caters 3 things 
 #GUI - It is a simple graphical user interface to interact with the user.It also integrates all the other functions of the program.
